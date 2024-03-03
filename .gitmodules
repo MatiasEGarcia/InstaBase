@@ -1,0 +1,3 @@
+[submodule "InstaFront"]
+	path = InstaFront
+	url = https://github.com/MatiasEGarcia/InstaFront
